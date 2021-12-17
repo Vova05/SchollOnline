@@ -1,0 +1,6 @@
+port: "9091"
+
+db:
+  dbUser: "root"
+  dbHost: "localhost"
+  dbName: "School"
