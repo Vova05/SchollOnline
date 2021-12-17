@@ -1,0 +1,2 @@
+# SchollOnline
+Приложение на Golang 
